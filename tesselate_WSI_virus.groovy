@@ -1,4 +1,4 @@
-// contains code by Pete Bankhead, Jakob Kather and James Dolezal
+// contains code by Pete Bankhead, Jakob Kather, Jeremias Krause and James Dolezal
 
 import qupath.lib.images.servers.ImageServer
 import qupath.lib.objects.PathObject
